@@ -24,6 +24,7 @@ To keep this simple, I'm going to keep this list here:
 - [Let's encrypt, free SSL certificates](https://letsencrypt.org/)
 - [Cheap domain registration](https://www.namecheap.com/)
 - [IndieHackers.com](https://www.indiehackers.com/)
+- [Republic](https://republic.co/)
 
 ## Idea sources:
 Until these have been exhausted, recording them here:
