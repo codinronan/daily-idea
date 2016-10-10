@@ -23,6 +23,17 @@ My goal is to add one idea to the list each day. For now, I have set a daily Goo
 To keep this simple, I'm going to keep this list here:
 - [Let's encrypt, free SSL certificates](https://letsencrypt.org/)
 - [Cheap domain registration](https://www.namecheap.com/)
+- [IndieHackers.com](https://www.indiehackers.com/)
+
+## Idea sources:
+Until these have been exhausted, recording them here:
+- [Ask HN](https://news.ycombinator.com/item?id=12670731)
+- [IndieHackers](https://www.indiehackers.com/forum/post/-KS11_6WiP7kOg_PAuk_)
+- [HN comment](https://news.ycombinator.com/item?id=12570324)
+- [AI](https://news.ycombinator.com/item?id=12669632), [AI2](https://news.ycombinator.com/item?id=12667761)
+- [Objective New Source](https://news.ycombinator.com/item?id=12581292) (call it "comparable-news"?)
+- [Developer social graph](https://news.ycombinator.com/item?id=12570132)
+- [Rich people news](https://github.com/napolux/1000ideas/blob/master/ideas/luxury_news_for_rich_people/README.md)
 
 #License
 MIT License, do what you will with this repo :)
