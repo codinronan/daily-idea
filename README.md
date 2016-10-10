@@ -26,6 +26,7 @@ To keep this simple, I'm going to keep this list here:
 - [IndieHackers.com](https://www.indiehackers.com/)
 - [Republic](https://republic.co/)
 - [Fiverr](https://www.fiverr.com/)
+- [Upwork](https://www.upwork.com)
 
 ## Idea sources:
 Until these have been exhausted, recording them here:
