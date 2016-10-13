@@ -36,6 +36,7 @@ Until these have been exhausted, recording them here:
 - [Developer social graph](https://news.ycombinator.com/item?id=12570132)
 - [Rich people news](https://github.com/napolux/1000ideas/blob/master/ideas/luxury_news_for_rich_people/README.md)
 - [Xmarks - feel like there's something here. Users can analyze their own habits and interests?](https://www.xmarks.com/)
+- [TakeAim](http://www.takeaim.io/)
 
 #License
 MIT License, do what you will with this repo :)
