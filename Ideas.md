@@ -10,3 +10,4 @@
 | 6  	| 16/10/2016    | Write a series of blog posts, with code in various languages, that demonstrate the relevance and connection of Calculus to software development. | 
 | 7  	| 16/10/2016    | Write a series of blog posts on setting up engineerapart.io on Github user pages | 
 | 8  	| 16/10/2016    | Create a set of tutorials, in various languages & platforms (React, Angular 2) pushed up to various hosters (AWS, [Heroku](https://www.garron.me/en/blog/deploy-host-jekyll-static-site-free-heroku.html), [Aerobatic](https://www.aerobatic.com/blog/gatsbyjs)) | 
+| 9  	| 17/10/2016    | Create a hosted version of Gatsby where users can edit their pages online and the backend takes care of regenerating and publishing the site. | 
